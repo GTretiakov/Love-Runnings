@@ -222,7 +222,7 @@ footer{
     height: 150%;
     border-style: solid;
     border-bottom-width: 1px;
-    border-bottom-color: #fff
+    border-bottom-color: #fff;
     padding: 0;
   }
   hr {
@@ -259,6 +259,7 @@ footer{
     }
     #photo {
       column-count: 3;
+    }
 }
 @media screen and (max-width: 800px) {
   #photo {
@@ -273,7 +274,7 @@ footer{
     position: absolute;
     left: 10%;
     padding: 30px;
-  }
+}
 .signup-form h2 {
   color: #fafafa;
   margin-bottom: 20px;
@@ -300,7 +301,7 @@ footer{
   color: #fafafa;
   display: block;
 }
- .join-button:hover {
+.join-button:hover {
    background-color:  #fafafa;
    color: #f16c6b;
- }
+}
